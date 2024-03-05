@@ -4,7 +4,7 @@ Descripción
 Este programa está diseñado para ayudar a los creadores y diseñadores de páginas web a enfrentar los problemas de migración de servicios entre directorios, especialmente cuando el hosting o servidor de destino presenta dificultades con los caracteres especiales en los nombres de archivos.
 
 Funcionalidades principales
-Permite realizar cambios masivos en los nombres de archivos para solucionar problemas de carga de imágenes.
+Permite realizar cambios masivos en los nombres de archivos para solucionar problemas de carga de imágenes y otros tipos de archivos .
 Conexión mediante FTP para acceder a los directorios del servidor.
 Renombrado de palabras específicas sin alterar la sintaxis del nombre del archivo.
 Posibilidad de realizar cambios en uno o varios directorios seleccionados.
